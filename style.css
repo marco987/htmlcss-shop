@@ -14,10 +14,12 @@
 
 .sconto {
   padding: 1px;
-  width: 15%;
+  width: 40px;
   height: 20px;
   position: absolute;
   right: 0;
+  font-size: 1em;
+  text-align: center;
 }
 
 .verde {
