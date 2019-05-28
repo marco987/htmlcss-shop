@@ -7,7 +7,7 @@
   width: 30%;
   height: 200px;
   margin: 5px;
-  background-color: grey;
+  background-color: silver;
   display: inline-block;
   position: relative;
 }
@@ -28,4 +28,9 @@
 
 .rosso {
   background-color: red;
+}
+
+img {
+  width: 100px;
+  margin: 0 auto;
 }
