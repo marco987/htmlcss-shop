@@ -31,6 +31,26 @@
 }
 
 img {
-  width: 100px;
-  margin: 0 auto;
+  display: none;
+}
+
+.tablet {
+  background-image: url(immagini/tablet.png);
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.smartphone {
+  background-image: url(immagini/smartphone.png);
+  background-size: 100px;
+    background-repeat: no-repeat;
+  background-position: center;
+}
+
+.cuffie {
+  background-image: url(immagini/cuffie.png);
+  background-size: 100px;
+    background-repeat: no-repeat;
+  background-position: center;
 }
