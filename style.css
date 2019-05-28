@@ -9,4 +9,21 @@
   margin: 5px;
   background-color: grey;
   display: inline-block;
+  position: relative;
+}
+
+.sconto {
+  padding: 1px;
+  width: 15%;
+  height: 20px;
+  position: absolute;
+  right: 0;
+}
+
+.verde {
+  background-color: green;
+}
+
+.rosso {
+  background-color: red;
 }
